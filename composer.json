@@ -1,0 +1,13 @@
+{
+    "name": "ygohel18/minio-php",
+    "authors": [
+        {
+            "name": "Yash Gohel",
+            "email": "yashgohel16@gmail.com"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.318",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
